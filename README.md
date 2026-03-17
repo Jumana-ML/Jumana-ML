@@ -10,7 +10,7 @@ My main tech stack is **Python, SQL, and NLP**. My favorite tools are **VS Code*
 
 I’ve built over **15 LLM projects**, but my favorites are the ones involving **RAG** and **Chat with Data**.📑
 
-If you want to collaborate, I prefer professional communication via **Slack** or **Email**!📧
+If you want to collaborate, I prefer professional communication via **Slack** --> https://aispire.slack.com/team/U0AJTA76328 !📧
 
 #### **Fun Facts: ✨**
 
