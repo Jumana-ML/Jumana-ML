@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m **Jumana**, an **AI Engineer** based in Jordan. 🇯🇴
+I’m **Jumana** 👩🏻, an **AI Engineer** based in Jordan.
 
 I design and build intelligent systems using **Large Language Models (LLMs)** and **Generative AI**.🤖
 
